@@ -18,4 +18,4 @@
 ### Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fazem no CSS. Após estes vamos criar um projeto real para colocarmos em prática o aprendizado.
 
 ### imagens do projeto em andamento:
-| ![screencapture-localhost-flexblog-flexblog-3-10-flexblog-footer_arquivos-flexblog-1595897198636](https://user-images.githubusercontent.com/5197047/88730204-f3011000-d10b-11ea-96cd-0b8cedb7466a.png)| 
+![screencapture-localhost-flexblog-flexblog-3-10-flexblog-footer_arquivos-flexblog-1595897198636](https://user-images.githubusercontent.com/5197047/88730204-f3011000-d10b-11ea-96cd-0b8cedb7466a.png) 
